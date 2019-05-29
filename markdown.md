@@ -1,6 +1,6 @@
 # 从简书上面一篇文章整理的
 < 作者：欧阳锋<br>
-< 链接:[https://www.jianshu.com/p/335db5716248](https://www.jianshu.com/p/335db5716248)<br>
+< 链接：[https://www.jianshu.com/p/335db5716248](https://www.jianshu.com/p/335db5716248)<br>
 < 来源：简书<br>
 ### 标题
 Markdown支持6中级别的标题，对应h1-h6
